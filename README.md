@@ -1,18 +1,5 @@
-# 📄 My generic template
+# 💿 ボカロ曲 “NULLRISE” のリソース
 
-## Features
-
-- CI/CD
-  - CodeRabbit
-  - ImgBot
-- Documents for GitHub
-- Git attributes
-- Linters
-  - CSpell
-  - EditorConfig
-  - MarkdownLint
-- Visual Studio Code integration
-
-## License
+## ライセンス
 
 MIT
