@@ -2,3 +2,6 @@
 .git* export-ignore
 .github/** export-ignore
 .imgbotconfig export-ignore
+
+*.png binary
+*.webp binary
