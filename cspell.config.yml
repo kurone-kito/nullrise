@@ -3,6 +3,7 @@ dictionaries:
   - en_US
   - en-gb
   - eo
+  - fonts
   - html
   - git
   - lorem-ipsum
@@ -23,6 +24,7 @@ language: en,eo,ja
 useGitignore: true
 version: '0.2'
 words:
+  - aegisub
   - alac
   - imgbotconfig
   - kito
