@@ -90,6 +90,15 @@
 
 [![Kurone Kito Logo](./images/kk-logo.png)](https://github.com/kurone-kito/nullrise/raw/main/images/kk-logo.png)
 
+## ネタバレ
+
+<details>
+<summary><strong>【ネタバレ注意！】</strong>タップで表示</summary>
+
+`E0HI-H4B5` == `PAST-SELF`
+
+</details>
+
 ## ライセンス
 
 ここにあるコンテンツは全て、

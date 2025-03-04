@@ -15,4 +15,5 @@ no-duplicate-heading: false
 no-inline-html:
   allowed_elements:
     - details
+    - strong
     - summary
