@@ -23,6 +23,7 @@ language: en,eo,ja
 useGitignore: true
 version: '0.2'
 words:
+  - alac
   - imgbotconfig
   - kito
   - kuron
