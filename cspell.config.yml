@@ -1,10 +1,33 @@
-cache:
-  cacheFormat: universal
-  cacheLocation: node_modules/.cache/cspell/.cspell.cache
-  cacheStrategy: metadata
-  useCache: true
-import:
-  - '@kurone-kito/cspell-config'
+allowCompoundWords: true
+dictionaries:
+  - en_US
+  - en-gb
+  - eo
+  - fonts
+  - html
+  - git
+  - lorem-ipsum
+  - markdown
+  - misc
+  - softwareTerms
+enableGlobDot: true
+features:
+  weighted-suggestions: true
+globRoot: ${cwd}
 ignorePaths:
-  - node_modules
+  - .*ignore
+  - .git
+  - .github/CODE_OF_CONDUCT.*
+  - .vscode/extensions.json
+  - cspell.config.yml
+language: en,eo,ja
+useGitignore: true
 version: '0.2'
+words:
+  - aegisub
+  - alac
+  - imgbotconfig
+  - kito
+  - kuron
+  - kuroné
+  - nullrise

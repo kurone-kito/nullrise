@@ -1,5 +1,2 @@
 ignores:
-  - '**/node_modules/**/*'
   - .github/CODE_OF_CONDUCT*
-  - .yarn/**/*
-  - node_modules/**/*

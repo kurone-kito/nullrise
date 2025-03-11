@@ -1,62 +1,108 @@
-# 📄 PNPM project template
+# 💿 ボカロ曲 “NULLRISE” のリソース
 
-## Features
+## 歌詞
 
-- PNPM
-- TypeScript
-- ESLint
-- Prettier
-- Commitlint with Husky
-- Visual Studio Code / Vim ready
-- CI configurations
-  - CodeRabbit
-  - Dependabot
-  - GitHub Actions
+- [SubViewer (`.sbv`) 形式の歌詞ファイル](https://github.com/kurone-kito/nullrise/raw/main/texts/lyrics.sbv)
+- [Aegisub (`.ass`) 形式の歌詞ファイル](https://github.com/kurone-kito/nullrise/raw/main/texts/lyrics.ass)
+- [YouTube カラオケ風字幕 (`.ytt`) 形式の歌詞ファイル](https://github.com/kurone-kito/nullrise/raw/main/texts/lyrics.ytt)
 
-## System Requirements
+```txt
+何処から現れた？知らない人たち
+壊れた世界で本当のこと話してくれる？
+何もかももうダメなんだ意味なんてないんだって
+なるほどあーそうかもしれないけれども残念だったね笑
 
-- Node.js
-  - Hydrogen LTS (`^18.20.4`)
-  - Iron LTS (`^20.10`)
-  - `>=22`
+肝心なことほど解らないままで
+失ってばっかの無駄でバカバカしい
+人生模様だって解ってるけどごめんね
+綺麗な泣き顔見たら
+……放っとけないな。
 
-## Install the dependencies
+だいたいやばいんだろ？理不尽きてるんだろ？
+助けるしかないでしょ？？
+やれるだけやってみるけどな
+何が起きても受け入れるか笑うしかないや :D
 
-```sh
-corepack enable
-pnpm install
+さあ、飛び込もうぜぶち壊してやろうぜ
+考えるのは暴れてからでしょ？
+
+---
+
+叶うことのない夢を見せるために
+摺られて紡がれた犠牲たちなんて虚しい話
+勿論知ってたつもりでも案外未確定なの？
+こいつを壊せるまでは確かめられない！
+
+たとえ全てが灰色に染まっても
+その中で見つけた微かな輝きがまだ生きる理由になるから
+
+---
+
+結局何もない
+どうせ終わってたって
+それで大笑いでしょ？
+やれるだけやってみるけどな
+何が起きたって受け入れるか笑うしかないや
+
+飛び込もうぜぶち壊してやろうぜ
+考えるのは暴れてからでしょ？
 ```
 
-## Linting
+## サウンド関係
 
-```sh
-pnpm run lint
-pnpm run lint:fix # Lint and auto-fix
-```
+### NULLRISE の音楽データ
 
-## Testing
+ぜひ、あなたのスマホのボカロプレイリストへ！
 
-```sh
-pnpm run test
-```
+- 45MB: [【ロスレス】Apple Lossless (ALAC M4A)](https://github.com/kurone-kito/nullrise/raw/main/sounds/nullrise.alac.m4a)
+- 31MB: [【ロスレス】Free Lossless Audio Codec (FLAC)](https://github.com/kurone-kito/nullrise/raw/main/sounds/nullrise.flac)
+- 8MB: [MPEG Audio layer-3 (MP3)](https://github.com/kurone-kito/nullrise/raw/main/sounds/nullrise.mp3)
 
-Currently, the command works as an alias for the `pnpm run lint` command.
+### Instrumental (カラオケ)
 
-## Cleaning
+歌みた向けのボカロなし版です。
 
-```sh
-pnpm run clean
-```
+- 45MB: [【ロスレス】Apple Lossless (ALAC M4A)](https://github.com/kurone-kito/nullrise/raw/main/sounds/instrument.alac.m4a)
+- 31MB: [【ロスレス】Free Lossless Audio Codec (FLAC)](https://github.com/kurone-kito/nullrise/raw/main/sounds/instrument.flac)
+- 8MB: [MPEG Audio layer-3 (MP3)](https://github.com/kurone-kito/nullrise/raw/main/sounds/instrument.mp3)
 
-## Rules for Development
+## 画像関係
 
-Welcome to contribute to this repository! For more details,
-please refer to [CONTRIBUTING.md](.github/CONTRIBUTING.md).
+### ロゴ
 
-Introduce commit message validation at commit time.
-The “**[Conventional Commits](https://www.conventionalcommits.org/ja/)**”
-rule is applied to discourage committing messages that violate conventions.
+|                                              SVG                                              |                                              PNG                                              |
+| :-------------------------------------------------------------------------------------------: | :-------------------------------------------------------------------------------------------: |
+| [![SVG](./images/logo.svg)](https://github.com/kurone-kito/nullrise/raw/main/images/logo.svg) | [![PNG](./images/logo.png)](https://github.com/kurone-kito/nullrise/raw/main/images/logo.png) |
 
-## LICENSE
+### ジャケット
 
-MIT
+|                                                    1:1                                                    |                                                      16:9                                                       |
+| :-------------------------------------------------------------------------------------------------------: | :-------------------------------------------------------------------------------------------------------------: |
+| [![Artwork](./images/artwork.webp)](https://github.com/kurone-kito/nullrise/raw/main/images/artwork.webp) | [![Thumbnail](./images/thumbnail.webp)](https://github.com/kurone-kito/nullrise/raw/main/images/thumbnail.webp) |
+
+|                                                  2:1                                                   |
+| :----------------------------------------------------------------------------------------------------: |
+| [![Header](./images/header.webp)](https://github.com/kurone-kito/nullrise/raw/main/images/header.webp) |
+
+### 黒音キトのロゴ
+
+必要に応じてご利用ください。(必須ではありません)
+
+[![Kurone Kito Logo](./images/kk-logo.png)](https://github.com/kurone-kito/nullrise/raw/main/images/kk-logo.png)
+
+## ネタバレ
+
+<details>
+<summary><strong>【ネタバレ注意！】</strong>タップで表示</summary>
+
+`E0HI-H4B5` == `PAST-SELF`
+
+</details>
+
+## ライセンス
+
+ここにあるコンテンツは全て、
+[CC-BY-4.0](https://creativecommons.org/licenses/by/4.0/deed.ja)
+ライセンスの下で提供しております。
+
+出典の明記のみお守りいただければ、無制限のご利用がいただけます。

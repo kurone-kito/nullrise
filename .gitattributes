@@ -1,6 +1,10 @@
 .coderabbit.yaml export-ignore
+.git* export-ignore
 .github/** export-ignore
-.gitattributes export-ignore
-.gitignore export-ignore
-.husky/** export-ignore
 .imgbotconfig export-ignore
+
+*.flac binary
+*.m4a binary
+*.mp3 binary
+*.png binary
+*.webp binary
