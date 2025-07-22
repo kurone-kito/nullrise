@@ -4,6 +4,8 @@
   "explorer.fileNesting.patterns": {
     "*.flac": "${capture}.*",
     "*.md": "${capture}.*.md",
+    "*.sbv": "${capture}.ass, ${capture}.ytt",
+    "*.svg": "${capture}.png",
     ".gitattributes": ".gitignore",
     ".markdownlint.*": ".markdownlint-cli2.*"
   },
