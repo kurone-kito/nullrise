@@ -8,6 +8,7 @@
     ".markdownlint.*": ".markdownlint-cli2.*"
   },
   "files.associations": {
+    "*.ytt": "xml",
     ".imgbotconfig": "json",
     "LICENSE": "plaintext"
   },
