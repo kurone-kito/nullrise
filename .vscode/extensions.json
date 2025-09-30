@@ -2,6 +2,7 @@
   "recommendations": [
     "davidanson.vscode-markdownlint",
     "editorconfig.editorconfig",
+    "pepri.subtitles-editor",
     "redhat.vscode-yaml",
     "streetsidesoftware.code-spell-checker"
   ]
