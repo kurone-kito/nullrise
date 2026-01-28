@@ -1,4 +1,9 @@
-# 💿 ボカロ曲 “NULLRISE” のリソース
+# 💿 [ボカロ曲 “NULLRISE”](https://youtu.be/vRGb6_jlLgE) のリソース集
+
+[![NULLRISE - ヌルライズ](./images/header.webp)](https://youtu.be/vRGb6_jlLgE)
+
+[![YouTube Video Likes](https://img.shields.io/youtube/likes/vRGb6_jlLgE) ![YouTube Video Views](https://img.shields.io/youtube/views/vRGb6_jlLgE)](https://youtu.be/vRGb6_jlLgE)
+[![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCJs_ejHQM0rcemJaeO2s5vA)](https://www.youtube.com/@kuronekito)
 
 ## 歌詞
 
