@@ -18,6 +18,9 @@
   "material-icon-theme.files.associations": {
     ".imgbotconfig": "robots"
   },
+  "material-icon-theme.folders.associations": {
+    "texts": "messages"
+  },
   "yaml.schemas": {
     "https://raw.githubusercontent.com/streetsidesoftware/cspell/main/packages/cspell-types/cspell.schema.json": [
       "cspell.config.yml"
